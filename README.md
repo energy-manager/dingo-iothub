@@ -15,6 +15,6 @@ You have two ways to get your script on your Dingo.
 
 
 # Running on Dingo
-Runing script on Dingo is done with command like this, you need quotes also 
+Runing script on Dingo is done with command like this, you need quotes also you need to be in directory where your script is !
 
 `./energyManager "your connection string"`
