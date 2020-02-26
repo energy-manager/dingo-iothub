@@ -1,5 +1,5 @@
 # Prerequisites
-Please first you need to setuo you development environment so you can compile and build the code. 
+Please first you need to setup you development environment so you can compile and build the code. 
 Look up on [setup](https://docs.microsoft.com/en-us/azure/iot-edge/how-to-vs-code-develop-module) and preapre your Visual studio code.
 
 # Compiling and building
