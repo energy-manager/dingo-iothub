@@ -1,0 +1,5 @@
+{
+    "ProjectHostType": "Container",
+    "version": "1.0.0",
+    "BoardId": "raspberrypi"
+}
