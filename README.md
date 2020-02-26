@@ -4,6 +4,7 @@ Look up on [setup](https://docs.microsoft.com/en-us/azure/iot-edge/how-to-vs-cod
 
 # Compiling and building
 After this clone this project somewhere on your machine. 
+
 Then you need to open the folder in your visual studio code and follow [this](https://github.com/Microsoft/vscode-iot-workbench/blob/master/docs/embedded-linux/embedded-linux-get-started.md) link, but you don't need to create project just do initial config as stated in tutorial so you can start from 6. stage of tutorial.
 
 After you succesfully done the compilling you will get new folder or if you already compiled project existing will only change.
